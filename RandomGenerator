@@ -1,6 +1,0 @@
-7 elemünk van amikből építhetünk. (|,J, L, O, S, T, Z)
-A játék "táskába" generálja le random a 7 elemet. Az összes lehetséges táska: 7! = 5040
-Ezeket a táskákat egymás mellé teszi sorban a játék, de van három kikötés.
-1. Két | elem között maximum 12 más fajta elem lehet.
-2. Az S és Z elemek között 4 más fajta elem lehet.
-3. Az első táska első elem mindig: |, J, L vagy T elem.
