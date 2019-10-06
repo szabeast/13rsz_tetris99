@@ -1,0 +1,18 @@
+Amikor "megtámadod" az ellenfele(i)d, akkor szemét blockokat küldesz a pályájukra, ezek közelebb viszik őt a kieséshez.
+Nagyobb combo-val több garbage blockot küldesz az ellenfélnek, egy sor kitöltése nem küldd garbage-t.
+
+Két sor: Egy sor garbage-t küld.
+Három sor: Két sor garbage-t küld.
+Tetris(Négy sor): Négy sor garbage-t küld.
+Board clear: 10 sor garbage-t küld.
+
+Bal lent egy indikátor mutatja hogy mennyi garbage-ra számíthatsz.
+Az indikátor először szürke, aztán sárga, végül piros lesz.
+Mielött a színük piros nem lesz sorok kitöltésével tudod a várható garbage mennyiségét csökkenteni.
+Ahány sort törölsz, annyi garbage sorral kevesebb lesz végül, vagy akár semennyi.
+Ha egyszerre többen támadnak téged a blockok felstackelődnek.
+
+T spin: A T spin egy olyan combo amikor a T blockot (3block lent és 1 fent középen) egy szűk helyre beforgatod és ezzel minimum egy sort törölsz ki.
+Egy sor törlése: 2 sor garbage-t küld.
+Két sor törlése: 4 sor garbage-t küld.
+Három sor törlése: 6 sor garbage-t küld.
