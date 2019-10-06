@@ -1,0 +1,14 @@
+Helyezés	XP
+1st	875 xp
+2nd	725 xp
+3rd	625 xp
+4th	600 xp
+5th	575 xp
+6th-10th	550 xp
+11th-20th	500 xp
+21st-30th	450 xp
+31st-40th	400 xp
+41st-50th	375 xp
+51st-70th	350 xp for 51st and decrements by 10 xp for each place drop until 70th.
+71st-99th	150 xp for 71st and decrements by 5 xp for each place drop until 10 xp for 99th place.
+The dirst K.O. is plus 50XP and 5XP for any further K.O.s

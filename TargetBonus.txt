@@ -1,0 +1,10 @@
+Ha több ellenfél támadja egyszerre, akkor bónusz sorokat
+küld a saját támadása az ellenfelének.
+Minél többen támadják, annál több bónusz garbage sort küld.
+
+Ellenfelek:	Bónusz sorok:
+2		+1
+3		+3
+4		+5
+5		+7
+6+		+9

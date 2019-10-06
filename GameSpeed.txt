@@ -1,0 +1,3 @@
+A játék kezdetekor az elemek 1 blockot esnek le 1 másodperc alatt.
+A top 50-ben az elemek 0.75s/block gyorsasággal esnek egyre lejjebb.
+A top 10-et elérve az elemek 1/3s/block-al esnek le.
