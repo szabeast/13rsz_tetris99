@@ -1,0 +1,7 @@
+Támadási stratégiák(1-4):
+1.Random - A 98 ellenfél közül random kiválasztva támdsz valakit.(1 ellenfél)
+2.Attackers - Azokat támadod meg akik téged támadtak, tehát akár egyszerre több ellenfelet is támadhatsz.
+3.Badges - Először a legtöbb K.O.-val vagy Badge-el rendelkező játékost támadod meg.
+4.K.O.s - Azok akik a legközelebb állnak a kieséshez, ők lesznek az elsődleges célpontjaid.
+
+A stratégiák között változtathatsz a játék közben.
